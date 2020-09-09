@@ -1,0 +1,75 @@
+{
+  "subjects": [
+    {
+      "title": "Math",
+      "code": "U+1F600",
+      "char": "😀"
+    },
+    {
+      "title": "arabic",
+      "code": "U+1F60C",
+      "char": "😌"
+    },
+    {
+      "title": "english",
+      "code": "U+1F60D",
+      "char": "😍"
+    },
+    {
+      "title": "Java",
+      "code": "U+1F60E",
+      "char": "😎"
+    },
+
+    {
+      "title": "kotlin",
+      "code": "U+1F637",
+      "char": "😷"
+    },
+    {
+      "title": "payology",
+      "code": "U+1F638",
+      "char": "😸"
+    },
+    {
+      "title": "c++",
+      "code": "U+1F639",
+      "char": "😹"
+    },
+    {
+      "title": "c sharp",
+      "code": "U+1F63A",
+      "char": "😺"
+    },
+    {
+      "title": "paithone",
+      "code": "U+1F63B",
+      "char": "😻"
+    },
+    {
+      "title": "english",
+      "code": "U+1F63C",
+      "char": "😼"
+    },
+    {
+      "title": "germany",
+      "code": "U+1F63D",
+      "char": "😽"
+    },
+    {
+      "title": "frinsh",
+      "code": "U+1F63E",
+      "char": "😾"
+    },
+    {
+      "title": "chmestry",
+      "code": "U+1F63F",
+      "char": "😿"
+    },
+    {
+      "title": "farmacy",
+      "code": "U+1F640",
+      "char": "🙀"
+    }
+  ]
+}

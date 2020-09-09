@@ -1,0 +1,85 @@
+{
+  "cards": [
+    {
+      "front": "this front side number 01",
+      "back": "this is back side number 01",
+      "char": "😀"
+    },
+    {
+      "front": "this front side number 02",
+      "back": "this is back side number 02",
+      "char": "😌"
+    },
+    {
+      "front": "this front side number 03",
+      "back": "this is back side number 03",
+      "char": "😍"
+    },
+    {
+      "front": "this front side number 04",
+      "back": "this is back side number 04",
+      "char": "😎"
+    },
+
+    {
+      "front": "this front side number 05",
+      "back": "this is back side number 05",
+      "char": "😷"
+    },
+    {
+      "front": "this front side number 06",
+      "back": "this is back side number 06",
+      "char": "😸"
+    },
+    {
+      "front": "this front side number 07",
+      "back": "this is back side number 07",
+      "char": "😹"
+    },
+    {
+      "front": "this front side number 08",
+      "back": "this is back side number 08",
+      "char": "😺"
+    },
+    {
+      "front": "this front side number 09",
+      "back": "this is back side number 09",
+      "char": "😻"
+    },
+    {
+      "front": "this front side number 10",
+      "back": "this is back side number 10",
+      "char": "😼"
+    },
+    {
+      "front": "this front side number 11",
+      "back": "this is back side number 11",
+      "char": "😽"
+    },
+    {
+      "front": "this front side number 12",
+      "back": "this is back side number 12",
+      "char": "😾"
+    },
+    {
+      "front": "this front side number 13",
+      "back": "this is back side number 13",
+      "char": "😿"
+    },
+    {
+      "front": "this front side number 14",
+      "back": "this is back side number 14",
+      "char": "🙀"
+    },
+    {
+      "front": "this front side number 15",
+      "back": "this is back side number 15",
+      "char": "🙁"
+    },
+    {
+      "front": "this front side number 16",
+      "back": "this is back side number 16",
+      "char": "🙂"
+    }
+  ]
+}
